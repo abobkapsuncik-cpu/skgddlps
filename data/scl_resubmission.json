@@ -1,0 +1,24 @@
+{
+    "id": 248,
+    "name": "scl resubmission",
+    "author": "MiRPacK19",
+    "creators": ["MiRPacK19"],
+    "verifier": "MiRPacK19",
+    "verification": "https://youtu.be/KB4Qmy0L0W0?si=G4aeAN_T5Ct_uae_",
+    "percentToQualify": 58,
+    "password": "",
+    "records": [
+        {
+            "user": "123uwuqwq",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "danik947",
+            "link": "",
+            "percent": 59,
+            "hz": "240"
+        }
+    ]
+}

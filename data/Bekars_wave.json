@@ -1,0 +1,30 @@
+{
+    "id": 214,
+    "name": "Bekars wave",
+    "author": "Bekars",
+    "creators": ["Bekars"],
+    "verifier": "Bekars",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 59,
+    "password": "",
+    "records": [
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "kostenkoMT",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "Lituralgede",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        }
+    ]
+}

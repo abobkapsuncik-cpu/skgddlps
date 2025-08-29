@@ -1,0 +1,36 @@
+{
+    "id": 257,
+    "name": "rush",
+    "author": "danik947",
+    "creators": ["danik947"],
+    "verifier": "danik947",
+    "verification": "https://youtu.be/5pjcpFIuShk?si=pH5fqt1B_TwP93gf",
+    "percentToQualify": "71",
+    "password": "",
+    "records": [
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "kostenkoMT",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "itzkat",
+            "link": "",
+            "percent": 78,
+            "hz": ""
+        },
+        {
+            "user": "ItzUnikitty",
+            "link": "",
+            "percent": 72,
+            "hz": ""
+        }
+    ]
+}

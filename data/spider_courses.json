@@ -1,0 +1,24 @@
+{
+    "id": 213,
+    "name": "spider courses",
+    "author": "MiRPacK19",
+    "creators": ["MiRPacK19"],
+    "verifier": "MiRPacK19",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "kostenkoMT",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "Cyndaver",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "313 - фикс %, 275 - оригинал",
+    "name": "Monochrome",
+    "author": "Cyndaver",
+    "creators": ["Cyndaver"],
+    "verifier": "ItzKat",
+    "verification": "https://youtu.be/b7QX4gwmYjo?si=FdoWYy2pY9ievSGx",
+    "percentToQualify": "49",
+    "password": "",
+    "records": [
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "danik947",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "morkovka",
+            "link": "",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}

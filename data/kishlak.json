@@ -1,0 +1,24 @@
+{
+    "id": 131,
+    "name": "kishlak",
+    "author": "SkyMars",
+    "creators": ["SkyMars"],
+    "verifier": "SkyMars",
+    "verification": "https://youtu.be/qm2uv_Mzg-Y?si=E6kJPDaA7dFenkaL",
+    "percentToQualify": 80,
+    "password": "",
+    "records": [
+        {
+            "user": "kostenkoMT",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

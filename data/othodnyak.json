@@ -1,0 +1,18 @@
+{
+    "id": 540,
+    "name": "othodnyak",
+    "author": "danik947",
+    "creators": ["ad3usgmd"],
+    "verifier": "danik947",
+    "verification": "https://youtu.be/XcUejoW_Pqw?si=teE0qQUgGm6eRsp7",
+    "percentToQualify": "49",
+    "password": "",
+    "records": [
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

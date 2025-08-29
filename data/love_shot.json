@@ -1,0 +1,30 @@
+{
+    "id": 323,
+    "name": "love shot",
+    "author": "itzkat",
+    "creators": ["itzkat"],
+    "verifier": "reyfer",
+    "verification": "https://youtu.be/jiVFyytFNrA?si=zhdZKpw32isg1xKP",
+    "percentToQualify": "53",
+    "password": "",
+    "records": [
+        {
+            "user": "danik947",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "amaterasu",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

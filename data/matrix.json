@@ -1,0 +1,36 @@
+{
+    "id": 232,
+    "name": "matrix",
+    "author": "itzkat",
+    "creators": ["itzkat"],
+    "verifier": "MiRPacK19",
+    "verification": "https://youtu.be/AJKEW-KXZj8?si=NeuVavuTYndgtSPa",
+    "percentToQualify": "59",
+    "password": "",
+    "records": [
+        {
+            "user": "danik947",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "Timkik4ever",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "amaterasu",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "IAmEpix",
+            "link": "",
+            "percent": 72,
+            "hz": ""
+        }
+    ]
+}

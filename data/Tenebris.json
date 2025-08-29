@@ -1,0 +1,24 @@
+{
+    "id": 189,
+    "name": "Tenebris",
+    "author": "PlayMen19935",
+    "creators": ["PlayMen19935"],
+    "verifier": "PlayMen19935",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "60",
+    "password": "",
+    "records": [
+        {
+            "user": "ItzKat",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

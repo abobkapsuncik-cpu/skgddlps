@@ -1,0 +1,24 @@
+{
+    "id": 130,
+    "name": "Iron God",
+    "author": "Qwalest",
+    "creators": ["Qwalest"],
+    "verifier": "Qwalest",
+    "verification": "https://youtu.be/OXpt51hJxVk?si=1eR_8VwJjm6bmt9m",
+    "percentToQualify": 64,
+    "password": "",
+    "records": [
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "kostenkoMT",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 114,
+    "name": "The Dark Aquamaris",
+    "author": "truokie",
+    "creators": [],
+    "verifier": "MiRPacK19",
+    "verification": "https://youtu.be/QkAu8WDJJyg?si=ZSl7cidCknIo-Zcv",
+    "percentToQualify": "26",
+    "password": "",
+    "records": [
+        {
+            "user": "amaterasu",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "Timkik4ever",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "danik947",
+            "link": "",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Ogyr4ukGMD",
+            "link": "",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Cyndaver",
+            "link": "",
+            "percent": 93,
+            "hz": "240"
+        }
+    ]
+}

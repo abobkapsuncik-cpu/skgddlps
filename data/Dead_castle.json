@@ -1,0 +1,30 @@
+{
+    "id": 320,
+    "name": "Dead castle",
+    "author": "JustBochkaXD",
+    "creators": ["JuatBochkaXD"],
+    "verifier": "123uwuqwq",
+    "verification": "https://youtu.be/WKjRXBWzgAM",
+    "percentToQualify": "55",
+    "password": "",
+    "records": [
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "amaterasu",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "123uwuqwq",
+            "link": "",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}

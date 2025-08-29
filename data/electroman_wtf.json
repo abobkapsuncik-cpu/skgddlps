@@ -1,0 +1,24 @@
+{
+    "id": 104,
+    "name": "electroman wtf",
+    "author": "scotch",
+    "creators": ["scotch"],
+    "verifier": "scotch",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "60",
+    "password": "",
+    "records": [
+        {
+            "user": "danik947",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "kostenkoMT",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 261,
+    "name": "parfait",
+    "author": "danik947",
+    "creators": ["danik947"],
+    "verifier": "danik947",
+    "verification": "https://youtu.be/dL3FydblwzE?si=YJE1cM1zU9HTtpYP",
+    "percentToQualify": "61",
+    "password": "",
+    "records": [
+        {
+            "user": "Cyndaver",
+            "link": "",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 506,
+    "name": "red portal",
+    "author": "danik947",
+    "creators": ["danik947"],
+    "verifier": "amaterasu",
+    "verification": "https://youtu.be/Bfvo78YA6lI?si=VYnj9AAY0Kfa2zx3",
+    "percentToQualify": "48",
+    "password": "",
+    "records": [
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

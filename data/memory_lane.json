@@ -1,0 +1,30 @@
+{
+    "id": 256,
+    "name": "memory lane",
+    "author": "123uwuqwq",
+    "creators": ["123uwuqwq"],
+    "verifier": "123uwuqwq",
+    "verification": "https://www.youtube.com/watch?v=ZKX-WO3DTe0",
+    "percentToQualify": "53",
+    "password": "",
+    "records": [
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "Lituralgede",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "amaterasu",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
